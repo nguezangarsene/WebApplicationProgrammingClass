@@ -1,12 +1,12 @@
 body{
   background-color:#E3F6F7;
-  font-type:sans-serif;
+  font-style:sans-serif;
 }
 h2{
   color: white;
   text-align: center;
   background-color: black;
-  font-family: verdana;
+  font-style: verdana;
 }
 p{
   font-family: verdana;
