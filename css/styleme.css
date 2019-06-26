@@ -26,7 +26,7 @@ a:active {
 }
 .box{
   display:inline-block;
-  width:200px;
+  width:100px;
   height:100px;
-  margin:700em;
+  margin:1em;
 }
