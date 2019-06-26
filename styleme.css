@@ -24,3 +24,9 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
+.box{
+  display:inline-block;
+  width:200px;
+  height:100px;
+  margin:3em;
+}
