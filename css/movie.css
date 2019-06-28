@@ -1,0 +1,140 @@
+*{
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+   
+}
+body{
+    font-family:  Verdana, Tahoma, sans-serif;
+    font-size: 8pt;
+    background-image: url(../images/background.png);
+    
+}
+*{
+    margin:0;
+    padding: 0;
+}
+.banner-section{
+    height:50px;
+    background-image: url(../images/bannerbg.png);
+}
+.banner-section {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 24px;
+    font-family: Tahoma, Verdana,sans-serif;
+    text-shadow: 3px 3px #999999;
+    margin: 12px auto;
+}
+.main-review-section{
+    border: 4px solid gray;
+    display: block;
+    border-radius: 20px;
+    height: 100%;
+    margin: 0px 120px 12px 120px;
+}
+.critics-heading{
+    background-image:url(../images/rbg.png);
+    height:83px;
+    border-top-left-radius: 16px;
+    overflow: hidden;
+
+}
+
+.critics-heading span{
+    position: absolute;
+    font-size: 44px;
+    margin-top: 16px;
+    color: red;
+    font-weight: bold;
+}
+
+.overview-side-image{
+    float: right;
+}
+.overview-side-image img{
+    border-top-right-radius: 16px;
+}
+
+.review-text{
+    
+    margin: 12px 12px 12px 12px;;
+    font-size: 11px;
+}
+.review-text-col{
+    flex: 1;
+}
+.review-text .quotes{
+    border: 2px solid gray;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 11px;
+    font-size:13px;
+    background-color: #e8dc9b;
+}
+
+.row{
+    display:flex;
+}
+.column{
+    width: 36%;
+    flex:1;
+}
+.row .column .review-text .authors span{
+    padding-left:39px;
+}
+
+.footer-paging{
+    width:100%;
+    display: flex;
+    background-color: #a2b964;
+    height: 44px;
+    border-radius: 0px 0px 17px 17px;
+    margin: auto;
+    text-align: center;
+}
+.footer-paging p{
+    margin-left: 49%;
+    margin-top: 12px;
+}
+.validator-links{
+    position: fixed;
+    bottom: 23px;
+    left: 93%;
+}
+.sidebar-right{
+    padding: 15px;
+    clear: right;
+    float: right;
+    display: block;
+    width: 20%;
+    background: #a2b964;
+    padding-bottom: 59px;
+    margin-top: -2px;
+
+
+}
+.sidebar-right dl dt{
+    margin-top: 14px;
+    font-weight: bold;
+}
+.sidebar-right dl dd{
+    padding-left:15px;
+
+}
+.sidebar-right dl dd ul{
+    list-style-type: none;
+    margin-top:12px;
+}
+.authors p br{
+    padding-left:12px;
+}
+
+  
+
