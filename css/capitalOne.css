@@ -1,0 +1,72 @@
+body{
+    /* font-family: Optimist,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: grey;
+    font-family: "Times New Roman", Times, serif; */
+
+    font-family:  Optimist,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #011728;
+    background: #faf8f9;
+    -webkit-font-smoothing: antialiased;
+
+    
+}
+#footer{
+    background-color: #eee;;
+    font-size: .8rem;
+    padding: 30px 20px 40px;
+}
+#applHeader{
+    /* background-color: #fff;
+    padding-top:12px;
+    padding-bottom: 10px;
+    position: relative;
+    text-align: center; */
+    width:800px; 
+    margin:0 auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.column.row.row{
+    float: none;
+    display: block;
+}
+.row.expanded{
+    max-width: none;
+}
+#middleDiv{
+    /* height: 900px; */
+    width:800px; 
+    margin:0 auto;
+    background-color: white;
+    /* margin-left: 500px;
+    margin-right: 50px; */
+    /* border-style: solid;
+    border-width: 1px; */
+    /* border-color: black; */
+    padding: 25px;
+}
+#my_centered_buttons { 
+    display: flex; 
+    justify-content: 
+    center; 
+}
+#wgtmsr{
+    width:150px;   
+}
+#wgtmsr option{
+    width:150px;   
+}
+/* h5{
+    color: deepskyblue;
+} */
+#footerDiv{
+    width:800px; 
+    margin:0 auto;
+}
+ul#menu li {
+    display:inline;
+  }
