@@ -38,6 +38,7 @@ h1{
     border-radius: 20px;
     height: 100%;
     margin: 0px 120px 12px 120px;
+    position: absolute;
 }
 .critics-heading{
     background-image:url(../images/rbg.png);
