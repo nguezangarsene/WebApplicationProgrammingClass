@@ -1,3 +1,9 @@
+$(document).ready(function(){
+   setTimeout(function(){
+      PopUp();
+   },3000); // 3000 to load it after 3 seconds from page load
+});
+
 
 function myFunction() {
   var x = document.getElementById("main-review-section");
@@ -7,3 +13,4 @@ function myFunction() {
     x.style.display = "none";
   }
 }
+
